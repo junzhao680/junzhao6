@@ -6,16 +6,16 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title:Happy every day, come on every day~
-description:A graduate student who yearns for new things but is easy to hesitate. The goal is to get a satisfactory answer to his life! !Happy blogging... ❤
-github_username:junzhao680
+title: Happy every day, come on every day~
+description: A graduate student who yearns for new things but is easy to hesitate. The goal is to get a satisfactory answer to his life! !Happy blogging... ❤
+github_username: junzhao680
 
 # Email and twitter are optional:
 email:3057575615@qq.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:true
+use_math:
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
